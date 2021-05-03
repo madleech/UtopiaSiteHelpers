@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
 		"lib/utopia_site_helpers/active_support/time_zone_fixes.rb",
 		"lib/utopia_site_helpers/auto_reload.rb",
 		"lib/utopia_site_helpers/db.rb",
+		"lib/utopia_site_helpers/exceptions/ses_mailer.rb",
 		"lib/utopia_site_helpers/rspec.rb",
 		"lib/utopia_site_helpers/rspec/capybara.rb",
 		"lib/utopia_site_helpers/rspec/db.rb",
